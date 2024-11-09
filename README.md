@@ -10,11 +10,21 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ • Nama saya ciaa**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ • Saya masi pemula**
+ 
+ • Saya bukan mastah**
+ 
+ • Saya suka musik**
+ 
+ • Dan saya juga suka anime
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Gatau+males><+;+pengen+beli+truk+):?;" />
+</h1>
 
  </div>
  
