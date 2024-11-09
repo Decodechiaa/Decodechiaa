@@ -1,5 +1,4 @@
-![logo](https://github.com/Dcodechiaa/blob/main/Github%20Banner.png)
-<h3 align="center">A passionate Software Engineer from Indonesia</h3>
+
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/e188c03af8bfe36770933a1fd72b5284e41065547964354af07c3976bc142443/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39652f62362f34352f39656236343531303135306135656161376263366538396533363635303865372e676966">
 
