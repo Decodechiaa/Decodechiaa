@@ -10,20 +10,21 @@
 
 <div align="center">
  
- • Nama saya ciaa**
+ • Nama saya ciaa
  
- • Saya masi pemula**
+ • Saya masi pemula
  
- • Saya bukan mastah**
+ • Saya bukan mastah
  
- • Saya suka musik**
+ • Saya suka musik
+ 
+ • Saya suka game
  
  • Dan saya juga suka anime
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Gatau+males><+;+pengen+beli+truk+):?;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Gatau+males><+;+pengen+beli+truk+):;" />
 </h1>
 
  </div>
@@ -52,8 +53,9 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐣 My Contributions 🐣</h2>
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Laguages+Frame+;+Work+)?:;" />
+</h1>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
