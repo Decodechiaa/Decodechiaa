@@ -15,17 +15,17 @@
 
 <div align="center">
  
- • Nama saya ciaa
+ 🐣 Nama saya ciaa
  
- • Saya masi pemula
+ 🍃 Saya tinggal di makassar
  
- • Saya bukan mastah
+ 💭 Saya bukan sepuh
  
- • Saya suka musik
+ 🙆‍♂️ Saya suka mendengar musik
  
- • Saya suka game
+ 💫 Saya suka bermain game
  
- • Dan saya juga suka anime
+ 💍 Dan saya suka menonton anime
 
 
 <h1 align="center">
