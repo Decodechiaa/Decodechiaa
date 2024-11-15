@@ -18,10 +18,10 @@
 ### [`Biodata Detail`](https://github.com/mhdxr)
 ```
 Intro = {
-"Fullname": "Yudda Aditiya",
-"Nickname": "mhdxr",
+"Fullname": "Cia Alexandra",
+"Nickname": "cyzx",
 "Status": "Pekerja",
-"Address": "Pemalang, Jawa Tengah, Indonesia",
+"Address": "Makassar, Sulsel, Indonesia",
 "Age": "....",
 "Birthday": "...."
 }
@@ -56,6 +56,6 @@ ___
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://instagram.com/ohmyyud_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-<a href="https://wa.me/6282331619602"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://instagram.com/@dcodekemii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://wa.me/6289678050502"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
