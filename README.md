@@ -6,7 +6,7 @@
 </p>
 # Jangan lupa kasih stars & follow :)
 
-src="https://cardivo.vercel.app/api?name=Alam🌱&description=Halo,%20I%27m%20Alam🌱 Burhanuddin Nafis%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/Decodechiaa&usqp=CAU&backgroundColor=%23ecf0f1&youtube=ZEROBOT&github=Decodechiaa&pattern=ticTacToe&colorPattern=%23eaeaea&site=webraku.xyz"/></a>
+img align="center" src="https://cardivo.vercel.app/api?name=Alam🌱&description=Halo,%20I%27m%20Alam🌱 Burhanuddin Nafis%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/Decodechiaa&usqp=CAU&backgroundColor=%23ecf0f1&youtube=ZEROBOT&github=Decodechiaa&pattern=ticTacToe&colorPattern=%23eaeaea&site=webraku.xyz"/></a>
 </p>
 
 <p align="center">
