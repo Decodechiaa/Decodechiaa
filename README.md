@@ -1,24 +1,24 @@
 ### Hi there 👋🏻
-<h1 align="center">自然<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>AlamBotz Desu!</h1>
+<h1 align="center">自然<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Cia Alexandra</h1>
 
 <p align="center">
-<img src="https://telegra.ph/file/45480ebfa80956db91f7a.png" alt="Alam-Botz"
+<img src="https://telegra.ph/file/45480ebfa80956db91f7a.png" alt="Cia-Alexandra"
 </p>
 
 # Jangan lupa kasih stars & follow :)
 
-<a href="//youtube.com/c/AmmarBN"><img align="center" src="https://cardivo.vercel.app/api?name=Alam🌱&description=Halo,%20I%27m%20Alam🌱 Burhanuddin Nafis%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/Alam-Botz&usqp=CAU&backgroundColor=%23ecf0f1&youtube=ZEROBOT&github=Alam-Botz&pattern=ticTacToe&colorPattern=%23eaeaea&site=webraku.xyz"/></a>
+<a href="//youtube.com/c/mrbeast"><img align="center" src="https://cardivo.vercel.app/api?name=Alam🌱&description=Halo,%20I%27m%20Cia🌱 Cantik Nafis%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/Alam-Botz&usqp=CAU&backgroundColor=%23ecf0f1&youtube=ZEROBOT&github=Alam-Botz&pattern=ticTacToe&colorPattern=%23eaeaea&site=webraku.xyz"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Alam-Botz"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Hi!+im+Fahri+Adison😼;currently+Learning+HTML+And+JavaScript;Don't+bully+me+im+still+noob>//<" alt="UwU">
+  <a href="https://github.com/Decodechiaa"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Hi!+im+cia+Adison😼;currently+Learning+HTML+And+JavaScript;Don't+bully+me+im+still+noob>//<" alt="UwU">
 </p>
 
 ---------
 
 ## Connect with me ☎️
-[![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/senpai_chan_gemoy)
- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285888083107)
+[![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jokowidodo)
+ [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289678050502)
 <p align="center">
  <a name=zeeoneofc&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/rizkyrahma"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Alam-Botz"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alam-Botz&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/Decodechiaa"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alam-Botz&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
   
 <p align="center">
@@ -71,7 +71,7 @@
 </p>
   
 <p align="center">
-  <a href="https://github.com/Alam-Botz"><img src="https://github-profile-trophy.vercel.app/?username=Alam-Botz&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/Decodechiaa"><img src="https://github-profile-trophy.vercel.app/?username=Alam-Botz&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alam-Botz&theme=monokai)
@@ -93,7 +93,7 @@
 
 var bio = `
 
-Name: Alam 🌱
+Name: Ciaa 🌱
 From: Indonesia 🇮🇩
 Age: 17
 Currently learning: Html, JavaScript
@@ -108,7 +108,7 @@ return bio
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Alam-Botz)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Decodechiaa)
 
 </details>
 
