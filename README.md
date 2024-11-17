@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Decodechiaa"><img src="http://readme-typing-svg.herokuapp.com?color=FFD700&center=true&vCenter=true&multiline=false&lines=Hi!+im+cia+alexandra💕;currently+Learning+HTML+And+JavaScript;Don't+bully+me+im+still+noob>//<" alt="UwU">
+  <a href="https://github.com/Decodechiaa"><img src="http://readme-typing-svg.herokuapp.com?color=FF1493&center=true&vCenter=true&multiline=false&lines=Hi!+im+cia+alexandra💕;currently+Learning+HTML+And+JavaScript;Don't+bully+me+im+still+noob>//<" alt="UwU">
 </p>
 
 ---------
