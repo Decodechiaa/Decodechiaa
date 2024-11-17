@@ -7,7 +7,7 @@
 
 # Jangan lupa kasih stars & follow :)
 
-<a href="//youtube.com/c/mrbeast"><img align="center" src="https://cardivo.vercel.app/api?name=Alam🌱&description=Halo,%20I%27m%20Cia🌱 Cantik Nafis%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/Alam-Botz&usqp=CAU&backgroundColor=%23ecf0f1&youtube=ZEROBOT&github=Alam-Botz&pattern=ticTacToe&colorPattern=%23eaeaea&site=webraku.xyz"/></a>
+<a href="//youtube.com/c/mrbeast"><img align="center" src="https://cardivo.vercel.app/api?name=Alam🌱&description=Halo,%20I%27m%20Cia🌱 Cantik Nafis%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/mrbeast&usqp=CAU&backgroundColor=%23ecf0f1&youtube=ZEROBOT&github=Decodechiaa&pattern=ticTacToe&colorPattern=%23eaeaea&site=webraku.xyz"/></a>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 <p align="center">
  <a name=zeeoneofc&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/rizkyrahma"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
- <a href="https://youtube.com/channel/UC2_TYQjXx5yvvXvPEW849mw"><img src="https://img.shields.io/badge/YouTube-AlamBotz-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtu.be/DfgBY51sHZA" /></a>
+ <a href="https://youtube.com/channel/UC2_TYQjXx5yvvXvPEW849mw"><img src="https://img.shields.io/badge/YouTube-mrbeast-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtu.be/DfgBY51sHZA" /></a>
   <a name=rizkyrahma&label=VIEWS&style=flat-square&color=orange" />
 </p>
 
@@ -59,22 +59,22 @@
   ### My statistic
 
 <p align="center">
-  <a href="panteg"><img src="https://github-readme-stats.vercel.app/api?username=Alam-Botz&theme=tokyonight&show_icons=true" /></a>
+  <a href="panteg"><img src="https://github-readme-stats.vercel.app/api?username=Decodechiaa&theme=tokyonight&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Decodechiaa"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alam-Botz&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/Decodechiaa"><img src="https://github-readme-streak-stats.herokuapp.com?user=Decodechiaa&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
   
 <p align="center">
-  <a href="https://github.com/Rlxfly"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alam-Botz&theme=tokyonight&layout=compact" /></a>
+  <a href="https://github.com/Rlxfly"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Decodechiaa&theme=tokyonight&layout=compact" /></a>
 </p>
   
 <p align="center">
-  <a href="https://github.com/Decodechiaa"><img src="https://github-profile-trophy.vercel.app/?username=Alam-Botz&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/Decodechiaa"><img src="https://github-profile-trophy.vercel.app/?username=Decodechiaa&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alam-Botz&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Decodechiaa&theme=monokai)
 
 <h3 align="left">Visitor</h3>
 <p align="center">
