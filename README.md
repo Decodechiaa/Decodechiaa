@@ -2,7 +2,7 @@
 <h1 align="center">自然<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Cia Alexandra</h1>
 
 <p align="center">
-<img src="https://files.catbox.moe/reft4b.jpg" alt="Cia-Alexandra"
+<img src="https://camo.githubusercontent.com/ef9c9e9f29ba1653094caad613d21e8dd7363a34e341c2bb95e48cdbdfb82cc9/68747470733a2f2f636f756e7465722e73656b752e73752f633330323f" alt="Cia-Alexandra"
 </p>
 # Jangan lupa kasih stars & follow :)
 
