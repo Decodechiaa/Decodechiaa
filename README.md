@@ -208,15 +208,36 @@ return bio
 
 var bio = `
 
-Name: Ciaa 🌱
-From: Indonesia 🇮🇩
-Age: 17
-Currently learning: Html, JavaScript
-`
-return bio
+class Person {
+  #quote = "Among a thousand stars, only one I like ✨";
 
+  constructor(info) {
+    Object.assign(this, info);
+  }
 
-// Don't bully me >///<
+  introduce() {
+    return `
+      Name: ${this.name}
+      Age: ${this.age}
+      Origin: ${this.origin}
+      Hobbies: ${this.hobbies}
+      Waifu: ${this.waifu}
+      Partner: ${this.partner}
+      Quote: ${this.#quote}
+    `;
+  }
+}
+
+const cianvx = new Person({
+  name: "cia",
+  age: 17,
+  origin: "Makassar",
+  hobbies: "Makan Burassa/Pallubasa",
+  waifu: "Gada bjirr",
+  partner: "my child's🤍‼️"
+});
+
+console.log(cianvx.introduce());
 
 ```
 </p>
